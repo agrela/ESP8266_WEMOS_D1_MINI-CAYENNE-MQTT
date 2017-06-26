@@ -1,6 +1,6 @@
 # ESP8266_WEMOS_D1_MINI MQTT
 ESP8266 DHT11 DHT22 IOT Cayenne Thingspeak MQTT
-ESP
+ESP;
 Ejemplos ESP8266 en el formato WEMOS D1 MINI
 Empleando el shield DHT11 / DHT22
 Conectando el pin D0 con el RST realiza una medida cada 30 min. aprox.
