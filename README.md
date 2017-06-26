@@ -11,4 +11,3 @@ Examples using WEMOS D1 MINI with ESP8266 module\
 Using shield DHT11 / DHT22\
 You must connect D0 and RST, that way the board acquire temperature and humidity every 30 min.\
 Very easy to use, you only have to add your wifi data and the Cayenne web data.
-2017-06-26 12.04.16-3.jpg
