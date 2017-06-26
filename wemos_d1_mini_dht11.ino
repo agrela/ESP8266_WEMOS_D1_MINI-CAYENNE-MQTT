@@ -6,7 +6,6 @@
 
 //Constants
 #define CAYENNE_PRINT Serial
-#include <CayenneMQTTESP8266.h>
 #define DHTPIN D4         // * pin usado DHT11 en wemos D1 mini shield
 #define DHTTYPE DHT11      // o DHT22
 DHT dht(DHTPIN, DHTTYPE);   // Initialize DHT sensor for normal 16mhz Arduino
