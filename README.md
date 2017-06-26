@@ -8,4 +8,5 @@ Muy sencillo de utilizar, simplemente hay que añadir los datos de nuestra wifi 
 \
 ENG\
 Using shield DHT11 / DHT22\
+You must connect D0 and RST, that way the board acquire temperature and humidity every 30 min.\
 Very easy to use, you only have to add your wifi data and the Cayenne web data.\\
